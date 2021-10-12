@@ -1,0 +1,22 @@
+
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: justify;
+}
+
+h1{
+    font-family: Times;
+  font-size: 450%
+    
+}
+p {
+    text-align: justify;
+}
+p{
+    text-align: match-parent;
+}
+h2{
+    text-align: justify;
+}
