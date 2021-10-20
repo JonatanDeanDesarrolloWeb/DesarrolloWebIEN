@@ -12,9 +12,11 @@ body{
     background-image: url(Img/fondo.png); 
     background-size: contain;
 }
+
 .barrasup{
     margin-top: 10%;   
 }
+
 .nave{
     text-decoration: none;
     font-family: 'Cinzel', serif;
@@ -23,6 +25,7 @@ body{
     color: black;
     float: right;
 }
+
 .logotipo{
     width: 20%;
     margin-top: -30px;
@@ -34,6 +37,7 @@ body{
     margin-bottom: 0em;
     margin-top: 18%;
 }
+
 .subtitulo{
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
@@ -42,6 +46,7 @@ body{
     margin-left: 0;
     line-height: 1,5em; 
 }
+
 .boton{
     font-size: 24px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
@@ -54,36 +59,45 @@ a.boton{
     color: white;
     margin-bottom: 10%;
 }
+
 a.boton:hover{
     background-color: black;
 }
+
+
 .botoon2{
     font-size: 24px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
     
 }
+
 a.botoon2{
     text-decoration: none;
     padding: 0.5em 1em 0.5em;   
     background-color: #f74545;
     color: white;     
 }
+
 a.botoon2:hover{
     background-color: black;
 }
+
+
 .botoncentro{
     text-align: center;
     margin-bottom: 10%;
 }
+
 .articulo{
     margin: auto;
     float: left; 
-    margin-top: 15%;
+    margin-top: 20%;
     margin-left: 50px;
     width: 500px;
     margin-bottom: -30%;
 
 }
+
 .articulo4{
     margin: auto;
     float: left; 
@@ -92,21 +106,25 @@ a.botoon2:hover{
     width: 500px;
     margin-bottom: 10%;
 }
+
 .derecha{
     margin-top: 30%;
 }
+
 
 .imagenart{
     max-width: 100%;
     width: auto;
    
 }
+
 .tituloimg{
     margin-top: 1px;
     font-family: 'Oswald', sans-serif;
     font-size: 35px;
     margin-bottom: 0em
 }
+
 .subtituloimg{
     font-family: 'Nunito', sans-serif;
     margin-bottom: 1px;
@@ -114,9 +132,11 @@ a.botoon2:hover{
     color: black;
     font-size: 20px;
 }
+
 a.subtituloimg:hover{
     color: red;
 }
+
 .titulo2{
     font-family: 'Oswald', sans-serif;
     font-size: 90px;
@@ -126,9 +146,12 @@ a.subtituloimg:hover{
 .subtitulo2{
     color: #231f20;
 }
+
+
 a.subtitulo2:hover{
     color: red;
 }
+
 .diseñoweb{
     float: left;
     width: 30%;
@@ -136,8 +159,7 @@ a.subtitulo2:hover{
     margin-left: 2%;
     margin-top: 60px;
     margin-bottom: 100px;
-
-}
+}    
 .logocliente{
     float: left;
     width: 22%;
@@ -146,19 +168,24 @@ a.subtitulo2:hover{
     margin-top: 60px;
     margin-bottom: 100px;
 }
+
+
 .titulo3{
     font-family: 'Oswald', sans-serif;
     font-size: 55px;
     margin-bottom: 0em;
 }
+
 .section{
     text-align: center;
 }
+
 .subtitulo3{
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     margin-bottom: 3%;
 }
+
 .footer{
     font-family: 'Prompt', sans-serif;
     text-align: center;
